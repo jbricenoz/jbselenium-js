@@ -1,0 +1,29 @@
+{
+  "name": "jbselenium",
+  "version": "1.0.0",
+  "description": "Selenium + Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbricenoz/jbselenium-js.git"
+  },
+  "keywords": [
+    "Selenium"
+  ],
+  "author": "Joshua Briceno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbricenoz/jbselenium-js/issues"
+  },
+  "homepage": "https://github.com/jbricenoz/jbselenium-js#readme",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "dependencies": {
+    "chromedriver": "^92.0.1"
+  }
+}
